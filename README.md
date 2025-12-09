@@ -1,3 +1,5 @@
+> Forked from https://github.com/HackerPoet/Chaos-Equations
+
 # Chaos-Equations
 Simple mathematical art – Cross-platform port of https://github.com/HackerPoet/Chaos-Equations
 
