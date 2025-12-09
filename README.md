@@ -1,3 +1,6 @@
+> [!WARNING]
+> Archived on GitHub and moved to https://git.sr.ht/~gary_moore/Chaos-Equations
+
 > Forked from https://github.com/HackerPoet/Chaos-Equations
 
 # Chaos-Equations
